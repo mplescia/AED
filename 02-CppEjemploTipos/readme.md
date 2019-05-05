@@ -23,6 +23,7 @@ ETAPA #2
 
 - Algoritmo
   * Representación textual:
+  
     i. Definir las variables necesarias de un tipo de dato de los solicitados por la consigna
     
     ii. Realizar una operación con los valores establecidos
